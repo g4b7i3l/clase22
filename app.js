@@ -7,5 +7,9 @@ const port = 3000
 
 app.get('/',(req,res)=> res.send('GGiroud Rata')) //ruta raiz localhost:3000
 
+app.get('/contactos',(req,res)=> res.send('Página de contacto'))
+
+app.get('/productos',(req,res)=> res.send('Listado de productos'))
+
 app.listen(port,() => console.log("Servidor funcionando en el puerto "+ port )) // 3000 es el numero de puerto - seguido de un callback
 
