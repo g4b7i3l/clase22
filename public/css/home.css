@@ -1,0 +1,62 @@
+/* header */
+header{
+    background-color: #EAC926;
+}
+#burguer{
+    display: block;
+    margin: 30px auto;
+    background-color: blue;
+    border: none;
+    padding: 7px;
+    color: white;
+    border-radius: 5px;
+
+}
+.p1 {
+    text-align: center;
+}
+
+.fa-sign-in-alt {
+    color: black;
+}
+.fa-address-card{
+    color: black;
+}
+.fa-shopping-basket{
+    color: black;
+}
+.liebre {
+    padding-top: 40px;
+    margin-left: 30px;
+    }
+.barra {
+    margin: 20px 0 0 20px;
+}
+.primera-lista{
+    padding-left: 0%;
+}
+/* body */
+
+/* footer */
+footer{
+    text-align: center;
+}
+footer p, h4, h6{
+    color: #666;
+}
+footer .futer{
+    margin-bottom: 55px;
+}
+footer .fa-credit-card{
+    margin-top: 55px;
+    margin-bottom: 10px;
+color: #1259c3;
+}
+footer .fa-gift{
+    margin-bottom: 10px;
+color: #1259c3;
+}
+footer .fa-user-shield{
+    margin-bottom: 10px;
+color: #1259c3;
+}
